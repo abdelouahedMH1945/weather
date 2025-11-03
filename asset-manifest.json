@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/abdelouahedMH1945/weather.git/static/css/main.1d7c7fbc.css",
+    "main.js": "/abdelouahedMH1945/weather.git/static/js/main.f806e28a.js",
+    "static/media/noaa-99F4mC79j1I-unsplash.jpg": "/abdelouahedMH1945/weather.git/static/media/noaa-99F4mC79j1I-unsplash.8b63492b95a5d4744dd0.jpg",
+    "index.html": "/abdelouahedMH1945/weather.git/index.html",
+    "main.1d7c7fbc.css.map": "/abdelouahedMH1945/weather.git/static/css/main.1d7c7fbc.css.map",
+    "main.f806e28a.js.map": "/abdelouahedMH1945/weather.git/static/js/main.f806e28a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d7c7fbc.css",
+    "static/js/main.f806e28a.js"
+  ]
+}
